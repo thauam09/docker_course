@@ -1,0 +1,26 @@
+nome: "Matheus"
+idade: 30
+# comentario
+objeto:  
+  versao: 2 # comentário 2
+  arquivo: "teste.txt"
+  versao_completa: 3.14
+  texto_sem_aspas: teste de texto sem aspas
+  nulo: ~
+  nulo2: null
+  verdadeiro1: true
+  verdadeiro2: false
+  falso1: on
+  falso2: off
+  array_teste: [1,2,3,4,5]
+  array_teste2: 
+    - 1
+    - 2
+    - 3
+    - 4
+  teste_objeto: {a: 1, b: 2, c: 3, d: 4 }
+  teste_objeto2: 
+    a: 1
+    b: 2
+    c: 3
+    d: 4
